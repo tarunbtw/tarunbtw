@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **backend systems and full-stack app development**
 - 🧰 I enjoy building helpful tools, automating stuff, and solving practical problems
 - ⏱️ Actively pushing projects and improving daily — check my commits!
-- 
 ---
 
 ### 🛠️ Tech Stack
