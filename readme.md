@@ -13,7 +13,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `Python` `Java` `Bash`
+`JavaScript` `TypeScript` `Java` `Bash`
 
 **Frontend:**  
 `React` `Next.js` `HTML` `CSS` `Tailwind` `electron`
@@ -29,23 +29,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharun30115&show_icons=true&theme=tokyonight&hide_border=true" alt="Tharun's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun30115&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun30115&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunbtw&show_icons=true&theme=tokyonight&hide_border=true" alt="Tharun's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbtw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbtw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-#### 🖼️ [Image to PDF Converter – Next.js](https://github.com/tharun30115/img-to-pdf)
-> Convert your images to PDFs in a clean and fast UI. Built with Next.js.
-
-#### 🌦️ [React Native Weather App](https://github.com/tharun30115/weatherApp)
-> Real-time weather data with location support and clean UI.
-
-#### 🧹 [Beautify-it CLI Tool](https://github.com/tharun30115/beautify-it)
-> A terminal tool to clean and format messy code instantly.
 
 ---
 
