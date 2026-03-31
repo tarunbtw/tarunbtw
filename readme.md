@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharun</h1>
-<h3 align="center">A self-taught developer who loves building tools, apps, and real-world solutions 🚀</h3>
+<h1 align="center">Hi 👋, I'm Tharun</h1
 
 ---
 
@@ -7,7 +6,6 @@
 
 - 🌱 I’m currently learning **backend systems and full-stack app development**
 - 🧰 I enjoy building helpful tools, automating stuff, and solving practical problems
-- ⏱️ Actively pushing projects and improving daily — check my commits!
 ---
 
 ### 🛠️ Tech Stack
@@ -42,5 +40,3 @@
 </p>
 
 ---
-
-> _“Build things that help others — that's how we learn and grow.”_
